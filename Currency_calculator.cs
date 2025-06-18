@@ -22,11 +22,11 @@
 
             if (!isNumeric)
             {
-                Console.WriteLine("Invalid input. Please enter a numeric amount.");
+                Console.WriteLine(" Please enter a numeric amount.");
                 return;
             }
 
-            // Check constraints
+           
             if (amount > 50000)
             {
                 Console.WriteLine("Amount exceeds withdrawal limit of 50000");
