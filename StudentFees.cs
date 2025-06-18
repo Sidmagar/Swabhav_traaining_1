@@ -15,7 +15,7 @@ namespace MethodsAndParameters
             finalFees = Calculate_Discount(fees);
 
             
-            Console.WriteLine("\nThe fees with discount are as:");
+            Console.WriteLine("The fees with discount are as:");
             for (int i = 0; i < finalFees.Length; i++)
             {
                 Console.WriteLine("Student {0} : {1}", i + 1, finalFees[i]);
