@@ -17,7 +17,7 @@ class PrimeCheck
             }
         }
 
-]
+
         if (count == 2)
         {
             Console.WriteLine(number + " is a prime number.");
