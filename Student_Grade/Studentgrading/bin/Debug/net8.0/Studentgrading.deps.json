@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Studentgrading/1.0.0": {
+        "dependencies": {
+          "StudentGrade": "1.0.0"
+        },
+        "runtime": {
+          "Studentgrading.dll": {}
+        }
+      },
+      "StudentGrade/1.0.0": {
+        "runtime": {
+          "StudentGrade.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Studentgrading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentGrade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

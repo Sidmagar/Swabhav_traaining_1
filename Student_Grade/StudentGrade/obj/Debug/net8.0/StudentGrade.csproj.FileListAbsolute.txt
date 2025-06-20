@@ -1,0 +1,11 @@
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\bin\Debug\net8.0\StudentGrade.deps.json
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\bin\Debug\net8.0\StudentGrade.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\bin\Debug\net8.0\StudentGrade.pdb
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\StudentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\StudentGrade.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\StudentGrade.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\StudentGrade.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\refint\StudentGrade.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\StudentGrade.pdb
+C:\Users\siddhant.magar\Desktop\1Assignments\StudentGrade\obj\Debug\net8.0\ref\StudentGrade.dll
