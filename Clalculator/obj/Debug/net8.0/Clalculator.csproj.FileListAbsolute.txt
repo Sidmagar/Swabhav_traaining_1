@@ -1,0 +1,11 @@
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\bin\Debug\net8.0\Clalculator.deps.json
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\bin\Debug\net8.0\Clalculator.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\bin\Debug\net8.0\Clalculator.pdb
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\Clalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\Clalculator.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\Clalculator.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\Clalculator.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\Clalculator.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\refint\Clalculator.dll
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\Clalculator.pdb
+C:\Users\siddhant.magar\Desktop\1Assignments\Clalculator\obj\Debug\net8.0\ref\Clalculator.dll
