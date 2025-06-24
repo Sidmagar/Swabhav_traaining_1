@@ -105,7 +105,7 @@ namespace Student_Grading
                 if (int.TryParse(Console.ReadLine(), out int mark) && mark >= 0 && mark <= 100)
                     return mark;
 
-                Console.WriteLine("Invalid input. Enter a number between 0 and 100.");
+                Console.WriteLine(" Enter a number between 0 and 100.");
             }
         }
     }
