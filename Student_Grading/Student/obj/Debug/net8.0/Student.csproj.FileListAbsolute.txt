@@ -1,0 +1,11 @@
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\bin\Debug\net8.0\Student.deps.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\bin\Debug\net8.0\Student.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\bin\Debug\net8.0\Student.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\Student.AssemblyInfoInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\Student.AssemblyInfo.cs
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\Student.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\refint\Student.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\Student.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Student_Grading\Student\obj\Debug\net8.0\ref\Student.dll
