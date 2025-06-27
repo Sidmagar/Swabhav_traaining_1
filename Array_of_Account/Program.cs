@@ -21,7 +21,7 @@ namespace Array_of_Account
 
                 switch (choice)
                 {
-                    case "1": // Create Account
+                    case "1":
                         if (count < accounts.Length)
                         {
                             string accountNumber = Account.GenerateAccountNumber(accounts, count);
@@ -40,7 +40,7 @@ namespace Array_of_Account
                             Console.WriteLine("Select Account Type:");
                             Console.WriteLine("1. Savings");
                             Console.WriteLine("2. Current");
-                            Console.Write("Enter your choice (1 or 2): ");
+                            Console.Write("Enter your choice 1 or ): ");
                             string Choice = Console.ReadLine();
 
                             string accountType;
