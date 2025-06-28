@@ -1,0 +1,11 @@
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\bin\Debug\net8.0\ProductApp.deps.json
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\bin\Debug\net8.0\ProductApp.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\bin\Debug\net8.0\ProductApp.pdb
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ProductApp.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ProductApp.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\refint\ProductApp.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ProductApp.pdb
+C:\Users\siddhant.magar\Desktop\Swabhav\ProductApp\obj\Debug\net8.0\ref\ProductApp.dll
