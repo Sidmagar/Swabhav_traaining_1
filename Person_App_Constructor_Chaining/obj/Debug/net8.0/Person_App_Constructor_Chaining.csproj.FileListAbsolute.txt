@@ -1,0 +1,14 @@
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\bin\Debug\net8.0\Person_App_Constructor_Chaining.exe
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\bin\Debug\net8.0\Person_App_Constructor_Chaining.deps.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\bin\Debug\net8.0\Person_App_Constructor_Chaining.runtimeconfig.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\bin\Debug\net8.0\Person_App_Constructor_Chaining.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\bin\Debug\net8.0\Person_App_Constructor_Chaining.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.AssemblyInfoInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.AssemblyInfo.cs
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.csproj.CoreCompileInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\refint\Person_App_Constructor_Chaining.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\Person_App_Constructor_Chaining.genruntimeconfig.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Person_App_Constructor_Chaining\obj\Debug\net8.0\ref\Person_App_Constructor_Chaining.dll
