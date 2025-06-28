@@ -27,6 +27,14 @@ internal class Program
         age = int.Parse(Console.ReadLine());
         Person person2 = new Person(id, name, age);
         person2.DisplayInfo();
+        // Create an enumeration instance
+Console.WriteLine();
+Console.WriteLine("Enter Enumeration Id:");
+int enumId = int.Parse(Console.ReadLine());
+Console.WriteLine("Enter Enumeration Name:");
+string enumName = Console.ReadLine();
+Enumeration enumeration = new Enumeration(enumId, enumName, PersonType.Student);
+enumeration.DisplayInfo();
 
 
 
