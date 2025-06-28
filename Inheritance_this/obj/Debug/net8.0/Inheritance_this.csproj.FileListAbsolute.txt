@@ -1,0 +1,14 @@
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\bin\Debug\net8.0\Inheritance_this.exe
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\bin\Debug\net8.0\Inheritance_this.deps.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\bin\Debug\net8.0\Inheritance_this.runtimeconfig.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\bin\Debug\net8.0\Inheritance_this.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\bin\Debug\net8.0\Inheritance_this.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.AssemblyInfoInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.AssemblyInfo.cs
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.csproj.CoreCompileInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\refint\Inheritance_this.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\Inheritance_this.genruntimeconfig.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Inheritance_this\obj\Debug\net8.0\ref\Inheritance_this.dll

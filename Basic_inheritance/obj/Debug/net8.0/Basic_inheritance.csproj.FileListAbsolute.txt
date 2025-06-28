@@ -1,0 +1,14 @@
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.AssemblyInfoInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.AssemblyInfo.cs
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\bin\Debug\net8.0\Basic_inheritance.exe
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\bin\Debug\net8.0\Basic_inheritance.deps.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\bin\Debug\net8.0\Basic_inheritance.runtimeconfig.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\bin\Debug\net8.0\Basic_inheritance.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\bin\Debug\net8.0\Basic_inheritance.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\refint\Basic_inheritance.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\Basic_inheritance.genruntimeconfig.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\Basic_inheritance\obj\Debug\net8.0\ref\Basic_inheritance.dll
