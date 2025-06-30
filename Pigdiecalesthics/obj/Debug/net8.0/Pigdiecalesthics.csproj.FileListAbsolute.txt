@@ -1,0 +1,14 @@
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\bin\Debug\net8.0\Pigdiecalesthics.exe
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\bin\Debug\net8.0\Pigdiecalesthics.deps.json
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\bin\Debug\net8.0\Pigdiecalesthics.runtimeconfig.json
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\bin\Debug\net8.0\Pigdiecalesthics.dll
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\bin\Debug\net8.0\Pigdiecalesthics.pdb
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.dll
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\refint\Pigdiecalesthics.dll
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.pdb
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\Pigdiecalesthics.genruntimeconfig.cache
+C:\Users\siddhant.magar\Desktop\Basic\Pigdiecalesthics\obj\Debug\net8.0\ref\Pigdiecalesthics.dll
