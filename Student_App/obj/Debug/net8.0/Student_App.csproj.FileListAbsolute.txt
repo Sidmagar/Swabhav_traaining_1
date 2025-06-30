@@ -1,0 +1,14 @@
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\bin\Debug\net8.0\Student_App.exe
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\bin\Debug\net8.0\Student_App.deps.json
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\bin\Debug\net8.0\Student_App.runtimeconfig.json
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\bin\Debug\net8.0\Student_App.dll
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\bin\Debug\net8.0\Student_App.pdb
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.dll
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\refint\Student_App.dll
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.pdb
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\Student_App.genruntimeconfig.cache
+C:\Users\siddhant.magar\Desktop\Basic\Student_App\obj\Debug\net8.0\ref\Student_App.dll
