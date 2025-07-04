@@ -1,0 +1,17 @@
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\bin\Debug\net8.0\MovieAppSerialize_Deseriaklize.exe
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\bin\Debug\net8.0\MovieAppSerialize_Deseriaklize.deps.json
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\bin\Debug\net8.0\MovieAppSerialize_Deseriaklize.runtimeconfig.json
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\bin\Debug\net8.0\MovieAppSerialize_Deseriaklize.dll
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\bin\Debug\net8.0\MovieAppSerialize_Deseriaklize.pdb
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.csproj.AssemblyReference.cache
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieApp.BAFC42FA.Up2Date
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.dll
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\refint\MovieAppSerialize_Deseriaklize.dll
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.pdb
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\MovieAppSerialize_Deseriaklize.genruntimeconfig.cache
+C:\Users\siddhant.magar\Desktop\Practice_Basic\MovieAppSerialize_Deseriaklize\obj\Debug\net8.0\ref\MovieAppSerialize_Deseriaklize.dll
