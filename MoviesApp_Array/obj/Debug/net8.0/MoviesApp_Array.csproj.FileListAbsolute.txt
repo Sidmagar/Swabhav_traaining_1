@@ -1,0 +1,17 @@
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\bin\Debug\net8.0\MoviesApp_Array.exe
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\bin\Debug\net8.0\MoviesApp_Array.deps.json
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\bin\Debug\net8.0\MoviesApp_Array.runtimeconfig.json
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\bin\Debug\net8.0\MoviesApp_Array.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\bin\Debug\net8.0\MoviesApp_Array.pdb
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\refint\MoviesApp_Array.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.pdb
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.genruntimeconfig.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\ref\MoviesApp_Array.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesApp_Array.csproj.AssemblyReference.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\MoviesApp_Array\obj\Debug\net8.0\MoviesAp.9B5F654A.Up2Date
