@@ -1,0 +1,14 @@
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\bin\Debug\net8.0\CourseManagementSystem.exe
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\bin\Debug\net8.0\CourseManagementSystem.deps.json
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\bin\Debug\net8.0\CourseManagementSystem.runtimeconfig.json
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\bin\Debug\net8.0\CourseManagementSystem.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\bin\Debug\net8.0\CourseManagementSystem.pdb
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.AssemblyInfoInputs.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.AssemblyInfo.cs
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\refint\CourseManagementSystem.dll
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.pdb
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\CourseManagementSystem.genruntimeconfig.cache
+C:\Users\siddhant.magar\Desktop\Swabhav\CourseManagementSystem\obj\Debug\net8.0\ref\CourseManagementSystem.dll
