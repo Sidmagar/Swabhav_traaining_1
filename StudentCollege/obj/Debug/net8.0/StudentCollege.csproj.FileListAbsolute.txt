@@ -1,0 +1,14 @@
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\bin\Debug\net8.0\StudentCollege.exe
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\bin\Debug\net8.0\StudentCollege.deps.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\bin\Debug\net8.0\StudentCollege.runtimeconfig.json
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\bin\Debug\net8.0\StudentCollege.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\bin\Debug\net8.0\StudentCollege.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.AssemblyInfoInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.AssemblyInfo.cs
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.csproj.CoreCompileInputs.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\refint\StudentCollege.dll
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.pdb
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\StudentCollege.genruntimeconfig.cache
+C:\Users\magar\OneDrive\Desktop\C# Practice\StudentCollege\obj\Debug\net8.0\ref\StudentCollege.dll
